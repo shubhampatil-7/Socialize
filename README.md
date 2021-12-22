@@ -7,7 +7,24 @@ This Website uses Reactjs on the Frontend, Nodejs on the backend
 and for its Database it uses MongoDB Atlas which is a cloud Database
 provider.
 
+## Screenshots
 
+#This is the login page where the user can login and they will be authenticated and redirected to the Home/Feed.
+
+![ALT_TEXT](/screenShots/login.PNG)
+
+#The Feed that user will see if they are authenticated.
+
+![ALT_TEXT](/screenShots/Feed.PNG)
+
+#The user can Register using their email address and set a password of their choice.
+
+![ALT_TEXT](/screenShots/register.PNG)
+
+#The Registered user's profiles will be shown:
+
+![ALT_TEXT](/screenShots/Profile.PNG)
+![ALT_TEXT](/screenShots/Profile%202.PNG)
 
 ## Deployment
 
@@ -31,10 +48,5 @@ Now Just run the frontend and the backend simultaneously by:
 ```bash
 npm start
 ```
-
-
-## Screenshots
-
-![ALT_TEXT](/screenShots/login.PNG)
 
 
