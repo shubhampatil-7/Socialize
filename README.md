@@ -35,6 +35,6 @@ npm start
 
 ## Screenshots
 
-![](screenShots/login.png)
+![ALT_TEXT](/screenShots/login.PNG)
 
 
