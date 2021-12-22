@@ -9,19 +9,19 @@ provider.
 
 ## Screenshots
 
-#This is the login page where the user can login and they will be authenticated and redirected to the Home/Feed.
+This is the login page where the user can login and they will be authenticated and redirected to the Home/Feed.
 
 ![ALT_TEXT](/screenShots/login.PNG)
 
-#The Feed that user will see if they are authenticated.
+The Feed that user will see if they are authenticated.
 
 ![ALT_TEXT](/screenShots/Feed.PNG)
 
-#The user can Register using their email address and set a password of their choice.
+The user can Register using their email address and set a password of their choice.
 
 ![ALT_TEXT](/screenShots/register.PNG)
 
-#The Registered user's profiles will be shown:
+The Registered user's profiles will be shown:
 
 ![ALT_TEXT](/screenShots/Profile.PNG)
 ![ALT_TEXT](/screenShots/Profile%202.PNG)
