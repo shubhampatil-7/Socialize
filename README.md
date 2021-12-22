@@ -24,7 +24,8 @@ The user can Register using their email address and set a password of their choi
 The Registered user's profiles will be shown:
 
 ![ALT_TEXT](/screenShots/Profile.PNG)
-![ALT_TEXT](/screenShots/Profile%202.PNG)
+
+![ALT_TEXT](/screenShots/profile%202.PNG)
 
 ## Deployment
 
