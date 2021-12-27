@@ -57,4 +57,8 @@ Now Just run the frontend and the backend simultaneously by:
 npm start
 ```
 
+## Connect your own data base
 
+First create your own cluster
+
+Then Change the .env file in server Folder and set the MONGO_URL to your own db given by MongoDB atlas
